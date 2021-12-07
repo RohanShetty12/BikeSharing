@@ -1,10 +1,10 @@
 # Demand dynamics of Bike Sharing system
-> This is a Linear regression Model Development project on the BoikeSharing data.
+> This is a Linear regression Model Development project on the BikeSharing data.
 
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
-* [Outcome of Model Development](#Outcome)
+* [Outcome of Model Development](#Outcome-of-model-development)
 * [Recommendations](#Recommendations)
 
 
